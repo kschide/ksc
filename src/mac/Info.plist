@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleURLName</key>
+			<string>kashmircoin</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>kashmircoin</string>
+			</array>
+		</dict>
+	</array>
+	<key>CFBundleShortVersionString</key>
+        <string>2.0.2</string>
+	<key>CFBundleVersion</key>
+        <string>2.0.2</string>
+	<key>NSPrincipalClass</key>
+	<string>NSApplication</string>
+	<key>CFBundleIconFile</key>
+	<string>Kashmircoin.icns</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>NSHumanReadableCopyright</key>
+	<string>© Kashmircoin</string>
+	<key>CFBundleSignature</key>
+	<string>KSC</string>
+	<key>CFBundleExecutable</key>
+	<string>Kashmircoin-Qt</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.kashmircoin.wallet-qt</string>
+	<key>CFBundleName</key>
+	<string>Kashmircoin-Qt</string>
+</dict>
+</plist>
